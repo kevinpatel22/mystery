@@ -1,7 +1,10 @@
 CHOICES
 
-First Choice: ____
-Second Choice: ____
-Third Choice: ____
-Fourth Choice: ____
-Fifth Choice: ____
+First Choice: Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.
+Second Choice: Listen in on what they're saying
+Third Choice: Approach Billy
+Fourth Choice: I think this was getting complex with no definite answer and then I found 6a.md
+Fifth Choice: I'm smart and I figured that everyone is involved in this murder 7a.md
+
+
+
